@@ -1,0 +1,23 @@
+[
+  {
+    "id" : 1,
+    "name" : "Hardware Repair from JSON",
+    "description" : "Integer finibus libero eget ullamcorper fermentum. Mauris tempor nunc enim, sit amet faucibus ante tincidunt vitae. Cras nisl orci, egestas et quam vitae, viverra scelerisque odio. Sed posuere quam a enim aliquam, mollis posuere ex sagittis. Aenean turpis augue, dapibus eu aliquam non, facilisis eget risus. Donec euismod nunc at hendrerit ultrices. Proin venenatis finibus purus, sit amet pharetra tortor suscipit vitae. Etiam interdum posuere tincidunt. Nunc tristique dui non maximus tempor. Sed nec massa purus. Nulla facilisi. Sed eget erat pharetra, varius justo ut, pharetra diam.",
+    "image" : "http://icons.iconarchive.com/icons/cornmanthe3rd/metronome/512/System-computer-icon.png"
+  },
+  {
+    "id" : 2,
+    "name" : "Virus removal",
+    "description" : "Integer finibus libero eget ullamcorper fermentum. Mauris tempor nunc enim, sit amet faucibus ante tincidunt vitae. Cras nisl orci, egestas et quam vitae, viverra scelerisque odio. Sed posuere quam a enim aliquam, mollis posuere ex sagittis. Aenean turpis augue, dapibus eu aliquam non, facilisis eget risus. Donec euismod nunc at hendrerit ultrices. Proin venenatis finibus purus, sit amet pharetra tortor suscipit vitae. Etiam interdum posuere tincidunt. Nunc tristique dui non maximus tempor. Sed nec massa purus. Nulla facilisi. Sed eget erat pharetra, varius justo ut, pharetra diam.",
+    "image" : "http://icons.iconarchive.com/icons/cornmanthe3rd/metronome/512/System-computer-icon.png"
+  },
+  {
+    "id" : 3,
+    "name" : "System tuneup",
+    "description" : "Integer finibus libero eget ullamcorper fermentum. Mauris tempor nunc enim, sit amet faucibus ante tincidunt vitae. Cras nisl orci, egestas et quam vitae, viverra scelerisque odio. Sed posuere quam a enim aliquam, mollis posuere ex sagittis. Aenean turpis augue, dapibus eu aliquam non, facilisis eget risus. Donec euismod nunc at hendrerit ultrices. Proin venenatis finibus purus, sit amet pharetra tortor suscipit vitae. Etiam interdum posuere tincidunt. Nunc tristique dui non maximus tempor. Sed nec massa purus. Nulla facilisi. Sed eget erat pharetra, varius justo ut, pharetra diam.",
+    "image" : "http://icons.iconarchive.com/icons/cornmanthe3rd/metronome/512/System-computer-icon.png"
+
+
+  }
+
+]
